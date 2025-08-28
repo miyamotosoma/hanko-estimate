@@ -1,0 +1,29 @@
+:root{
+    --bg:#ffffff;
+    --text: #1e2e60;
+    --border: #1e2e60;
+    --button-bg: #f6f8fc;
+
+    --Test: #233c81;
+}
+
+body {
+    background-color: var(--bg);
+    width: 100vw;
+    height: 100vh;
+}
+
+.stamp-select {
+    text-align: center;
+    color: var(--text);
+    padding: 20px;
+}
+
+.stamp-select-button {
+    text-align: center;
+    font-size: 20px;
+    color: var(--text);
+    background-color: var(--button-bg);
+    padding: 40px;
+    border: 1px solid var(--border);
+}
