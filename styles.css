@@ -1,3 +1,8 @@
+*, ::after, ::before{
+    box-sizing: border-box;
+}
+
+
 :root{
     --bg:#ffffff;
     --text: #1e2e60;
