@@ -2,7 +2,6 @@
     box-sizing: border-box;
 }
 
-
 :root{
     --bg:#ffffff;
     --text: #1e2e60;
@@ -16,6 +15,8 @@ body {
     background-color: var(--bg);
     width: 100vw;
     height: 100vh;
+    margin: 0;
+    padding: 0;
 }
 
 .stamp-select {
