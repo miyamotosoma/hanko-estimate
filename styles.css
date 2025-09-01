@@ -19,6 +19,12 @@ body {
     padding: 0;
 }
 
+.header {
+    background-color: #1e2e60;
+    color: var(--text);
+    width: 100%;
+}
+
 .stamp-select {
     text-align: center;
     color: var(--text);
